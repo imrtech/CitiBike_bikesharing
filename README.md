@@ -6,7 +6,7 @@ The purpose of the project was to analyze bikeshare data from CitiBike in New Yo
 
 ## Results
 
-For the [Tableau Story] (https://public.tableau.com/shared/NDZN4BK6R?:display_count=n&:origin=viz_share_link)
+[Tableau Story](https://public.tableau.com/shared/NDZN4BK6R?:display_count=n&:origin=viz_share_link)
 
 
 
